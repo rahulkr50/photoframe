@@ -1,4 +1,5 @@
-# photoframe
+# Photo Shoots Studios
+Photography is the art of capturing light with a camera, usually via a digital sensor or film, to create an image.
 
 
 # Languages
